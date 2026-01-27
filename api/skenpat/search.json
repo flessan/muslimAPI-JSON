@@ -7,6 +7,8 @@
         "cat": "Akademik",
         "kw": [
             "jadwal",
+            "mapel",
+            "smk",
             "belajar",
             "guru",
             "kelas"
@@ -20,6 +22,12 @@
         "cat": "Umum",
         "kw": [
             "osis",
+            "eskul",
+            "habsyi",
+            "habsi",
+            "tari",
+            "pmr",
+            "dance",
             "pramuka",
             "seni",
             "olahraga"
@@ -33,6 +41,8 @@
         "cat": "Umum",
         "kw": [
             "musik",
+            "mars",
+            "smk",
             "nyanyi",
             "lirik"
         ]
@@ -45,6 +55,8 @@
         "cat": "Kreatif",
         "kw": [
             "game",
+            "wheel",
+            "roda",
             "acak",
             "spin"
         ]
@@ -57,7 +69,11 @@
         "cat": "Religi",
         "kw": [
             "ngaji",
+            "islam",
+            "habsyi",
             "sholat",
+            "alquran",
+            "al-qur'an",
             "agama"
         ]
     },
@@ -69,6 +85,8 @@
         "cat": "Religi",
         "kw": [
             "ibadah",
+            "agama",
+            "rohani",
             "kristen",
             "alkitab"
         ]
@@ -93,6 +111,8 @@
         "cat": "Akademik",
         "kw": [
             "buku",
+            "perpus",
+            "belajar",
             "baca",
             "digital"
         ]
